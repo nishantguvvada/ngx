@@ -23,6 +23,9 @@ export default {
           900: '#000000',
         }
       },
+      fontFamily: {
+        neon: ['Neon Glow', 'sans-serif'],
+      },
     },
   },
   plugins: [],
