@@ -1,3 +1,4 @@
+import { Circle } from "./components/Circle";
 import { Landing } from "./components/Landing";
 
 export const metadata = {
